@@ -1,0 +1,4 @@
+VITE_SITE_URL=https://www.example.com
+VITE_CONTACT_EMAIL=hello@yourstudio.co.uk
+VITE_CONTACT_PHONE=+44 (0)20 0000 0000
+VITE_CONTACT_FORM_ENDPOINT=
